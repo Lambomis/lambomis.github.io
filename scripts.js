@@ -1,5 +1,5 @@
 // const API_URL = "https://YOUR-HF-SPACE-URL.hf.space/process";
-const API_URL = "http://127.0.0.1:8000/process";
+const API_URL = "https://medtech-app-backend.vercel.app/process";
 
 const fileInput = document.getElementById('imageInput');
 const processBtn = document.getElementById('processBtn');
