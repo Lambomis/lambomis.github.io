@@ -1,5 +1,5 @@
 // const API_URL = "https://YOUR-HF-SPACE-URL.hf.space/process";
-const API_URL = "https://medtech-app-backend.vercel.app/process";
+const API_URL = "https://lambomis-medtechapp-backend.hf.space/process";
 
 const fileInput = document.getElementById('imageInput');
 const processBtn = document.getElementById('processBtn');
